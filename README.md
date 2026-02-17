@@ -1,1 +1,1 @@
-# 2025linuxdisplayhackfest
+# 2026linuxdisplayhackfest
